@@ -1,0 +1,22 @@
+.board{
+    width: 800px;
+    height: 100px;
+    background: #fff;
+    border-radius: 15px;
+}
+
+.icon, .icon-1, .icon-2, .icon-3{
+    background: #fff5ed;
+    width: 60px;
+    border-radius: 7px;
+    height: 60px;
+}
+
+.chart{
+   width: 800px;
+   height: 400px;
+   background: #fff;
+   margin-top: 20px;
+   margin-left: 80px;
+   border-radius: 10px;
+}
